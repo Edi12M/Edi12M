@@ -1,45 +1,55 @@
-##👋 Hi, I’m Edi
+# 👋 Hi, I’m Edi
 
-Welcome to my corner of GitHub!
-I’m a curious developer who’s building skills in DevOps, Cloud, and Software Development.
+Welcome to my corner of GitHub!  
+I’m a curious developer building skills in **DevOps**, **Cloud**, and **Software Development**.  
 Trying things, breaking things, fixing things — and learning along the way.
 
-####🚀 What I’m Working On
+---
 
-DevOps foundations
+## 🚀 What I’m Working On
 
-AWS & Azure cloud skills
+- DevOps foundations  
+- AWS & Azure cloud skills  
+- Backend development & scripting  
+- Improving problem-solving and building real-world projects  
 
-Backend & scripting
+---
 
-Improving my problem-solving and building real-world projects
+## 🧰 Technologies & Tools
 
-####🧰 Technologies & Tools
+**Languages:**  
+C#, JavaScript, Bash  
 
-Languages: C#, JavaScript, Bash
+**DevOps:**  
+Docker, Git, CI/CD basics  
 
-DevOps: Docker, Git, CI/CD basics
+**Cloud:**  
+AWS, Azure (learning)  
 
-Cloud: AWS, Azure (learning path)
+**Other Tools:**  
+Linux, VS Code, Postman  
 
-Other: Linux, VS Code, Postman
+---
 
-####🎯 Current Goals
+## 🎯 Current Goals
 
-Build solid DevOps projects
+- Build solid DevOps projects  
+- Earn cloud certifications (AWS / GCP / Azure)  
+- Contribute to open-source  
+- Become job-ready in DevOps  
 
-Get cloud certifications (AWS/GCP/Azure)
+---
 
-Contribute to open-source
+## 📫 How to Reach Me
 
-Become job-ready in DevOps
+**LinkedIn:**  
+www.linkedin.com/in/edvin-mehaj-08a926335  
 
-####📫 How to reach me
+**Email:**  
+edi.mehaj12@gmail.com  
 
-LinkedIn: www.linkedin.com/in/edvin-mehaj-08a926335
+---
 
-Email: edi.mehaj12@gmail.com
+## ⚡ Fun Fact
 
-####⚡ Fun Fact
-
-I break code faster than I fix it, but somehow… everything works in the end.
+I break code faster than I fix it — yet somehow… everything works in the end. 😄
