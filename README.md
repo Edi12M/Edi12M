@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Edi</h1>
+<h1 align="center">👋 Hi, I'm Edvin</h1>
 
 <p align="center">
   Welcome to my GitHub profile!  
@@ -38,13 +38,7 @@
 - Tailwind
   
 
-### **DevOps**
-- Docker  
-- Git & GitHub  
-- CI/CD basics  
-
 ### **Cloud**
-- AWS  
 - Azure (learning path)
 
 ### **Other Tools**
@@ -61,14 +55,12 @@
 
 - Build strong **DevOps projects**
 - Earn **Cloud Certifications** (AWS / Azure / GCP)
-- Contribute to **open source**
-- Become **job-ready** in DevOps & Cloud Engineering
 
 ---
 
 ## 📫 Contact Me
 
-- **LinkedIn:** https://www.linkedin.com/in/edvin-mehaj-08a926335  
+- **LinkedIn:** https://www.linkedin.com/in/edvin-mehaj- 
 - **Email:** edi.mehaj12@gmail.com
 
 ---
